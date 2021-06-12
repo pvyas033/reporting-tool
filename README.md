@@ -130,5 +130,5 @@ Reporting Tool: [https://github.com/pvyas033/ReportingTool](https://github.com/p
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Thinking Machines](https://thinkingmachines.in/
-* [Java Point] (https://www.javatpoint.com/java-swing)
+* [Thinking Machines](https://thinkingmachines.in/)
+* [Java Point](https://www.javatpoint.com/java-swing)
