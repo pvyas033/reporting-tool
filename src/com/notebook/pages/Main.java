@@ -7,6 +7,6 @@ public class Main {
     public static ReportFrame reportFrame;
     public static void main(String[] args) {
         reportFrame = new ReportFrame();
-        reportFrame.setTitle ( "Untitled" );
+        reportFrame.setTitle ( "Reporting Tool" );
     }
 }
