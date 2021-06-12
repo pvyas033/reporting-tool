@@ -90,7 +90,7 @@ Install java from oracle download center.
 On the top we have menu where and at the left side we have all the tools required to build report. All the component you will draw that will 
 come at right side at Object panel. Once you complete your report you can extract it to PDF.
 
-[Screenshop](https://github.com/pvyas033/ReportingTool/blob/main/resource/screenshots/First.PNG)
+![Screenshot](/resource/screenshots/First.PNG)
 
 <!-- ROADMAP -->
 ## Roadmap
