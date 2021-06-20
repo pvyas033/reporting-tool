@@ -10,14 +10,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p>
-  <a href="https://github.com/pvyas033/ReportingTool">
+  <a href="https://github.com/pvyas033/reporting-tool">
       <h3>Reporting Tool</h3>
   </a>
 
   <p>
     A Desktop Application that will help programmer to create report with model Data.
     <br />
-    <a href="https://github.com/pvyas033/ReportingTool"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pvyas033/reporting-tool"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
@@ -76,11 +76,11 @@ Install java from oracle download center.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pvyas033/ReportingTool.git
+   git clone https://github.com/pvyas033/reporting-tool.git
    ```
 3. Run below command to run project
    ```sh
-   java -classpath .\lib\itextpdf-5.1.0.jar;.\out\production\ReportingTool;. com.notebook.pages.Main
+   java -classpath .\lib\itextpdf-5.1.0.jar;.\out\production\reporting-tool;. com.notebook.pages.Main
    ```
 
 
@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Pankaj Vyas - [@panka_pvt](https://twitter.com/pankaj_pvt) - pankajvyas033@gmail.com
 
-Reporting Tool: [https://github.com/pvyas033/ReportingTool](https://github.com/pvyas033/ReportingTool)
+Reporting Tool: [https://github.com/pvyas033/reporting-tool](https://github.com/pvyas033/reporting-tool)
 
 
 
