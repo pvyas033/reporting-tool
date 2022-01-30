@@ -9,17 +9,25 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p>
-  <a href="https://github.com/pvyas033/reporting-tool">
-      <h3>Reporting Tool</h3>
+<p align="center">
+  <a href="https://github.com/pvyas033/eporting-tool">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <p>
-    A Desktop Application that will help programmer to create report with model Data.
+  <h3 align="center">Reporting Tool</h3>
+
+  <p align="center">
     <br />
-    <a href="https://github.com/pvyas033/reporting-tool"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pvyas033/eporting-tool"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/pvyas033/eporting-tool">View Demo</a>
+    ·
+    <a href="https://github.com/pvyas033/eporting-tool/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/pvyas033/eporting-tool/issues">Request Feature</a>
   </p>
-</p>
+ </p>
 
 
 
@@ -42,7 +50,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -76,11 +83,11 @@ Install java from oracle download center.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/pvyas033/reporting-tool.git
+   git clone https://github.com/pvyas033/ReportingTool.git
    ```
 3. Run below command to run project
    ```sh
-   java -classpath .\lib\itextpdf-5.1.0.jar;.\out\production\reporting-tool;. com.notebook.pages.Main
+   java -classpath .\lib\itextpdf-5.1.0.jar;.\out\production\ReportingTool;. com.notebook.pages.Main
    ```
 
 
@@ -111,20 +118,12 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Pankaj Vyas - [@panka_pvt](https://twitter.com/pankaj_pvt) - pankajvyas033@gmail.com
+Pankaj Vyas | [Website](https://pankajvyas.in/#/) | [LinkedIn](https://www.linkedin.com/in/pankaj033/) | [Twitter](https://twitter.com/pankaj_pvt) | pankajvyas033@gmail.com
 
-Reporting Tool: [https://github.com/pvyas033/reporting-tool](https://github.com/pvyas033/reporting-tool)
+Reporting Tool: [https://github.com/pvyas033/ReportingTool](https://github.com/pvyas033/ReportingTool)
 
 
 
