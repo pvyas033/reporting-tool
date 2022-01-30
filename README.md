@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/pvyas033/eporting-tool">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="resource/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Reporting Tool</h3>
